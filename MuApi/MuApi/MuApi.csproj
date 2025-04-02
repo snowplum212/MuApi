@@ -44,6 +44,7 @@
     <Compile Include="ArithmeticConversion.cs" />
     <Compile Include="DateTime.cs" />
     <Compile Include="Database.cs" />
+    <Compile Include="Util.cs" />
     <Compile Include="Math.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
