@@ -1,0 +1,6 @@
+C:\developer\MuApi\MuApi\MuApi\bin\Debug\MuApi.dll
+C:\developer\MuApi\MuApi\MuApi\bin\Debug\MuApi.pdb
+C:\developer\MuApi\MuApi\MuApi\obj\Debug\MuApi.csproj.AssemblyReference.cache
+C:\developer\MuApi\MuApi\MuApi\obj\Debug\MuApi.csproj.CoreCompileInputs.cache
+C:\developer\MuApi\MuApi\MuApi\obj\Debug\MuApi.dll
+C:\developer\MuApi\MuApi\MuApi\obj\Debug\MuApi.pdb
