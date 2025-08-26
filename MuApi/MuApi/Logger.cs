@@ -67,10 +67,22 @@ namespace MuApi
                 }
             }
 
-            public static void Error()
+            public static void Error(Exception ex,
+                                    [CallerFilePath] string callerFilePath = "",
+                                    [CallerMemberName] string callerMemberName = "",
+                                    [CallerLineNumber] int callerLineNumber = 0)
             {
-
+                try
+                {
+                    string message = $"[ERROR] {ex.GetType().Name}: {ex.Message}\n{ex.StackTrace}";
+                    Log(message, callerFilePath, callerMemberName, callerLineNumber);
+                }
+                catch
+                {
+                    // 예외 무시
+                }
             }
+
         }
     }
 }

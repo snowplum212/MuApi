@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\MuApi\\MuApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|c:\\dev\\muapi\\muapi\\muapi\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|solutionrelative:muapi\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuAPI.csproj|c:\\dev\\muapi\\muapi\\muapi\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuAPI.csproj|solutionrelative:muapi\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|c:\\dev\\muapi\\muapi\\muapi\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|C:\\dev\\MuApi\\MuApi\\muapi\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|solutionrelative:muapi\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|C:\\dev\\MuApi\\MuApi\\muapi\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|solutionrelative:muapi\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|C:\\dev\\MuApi\\MuApi\\muapi\\arithmeticconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|C:\\dev\\MuApi\\MuApi\\muapi\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|solutionrelative:muapi\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|C:\\dev\\MuApi\\MuApi\\muapi\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|solutionrelative:muapi\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ABCCF0E-D271-439D-B6FB-786EFCC0A4D5}|MuApi\\MuApi.csproj|C:\\dev\\MuApi\\MuApi\\muapi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,8 +49,7 @@
               "RelativeToolTip": "..\\..\\..\\MyJsons\\HD\\VersionInfo.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-28T04:46:32.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T04:46:32.737Z"
             },
             {
               "$type": "Document",
@@ -60,7 +59,7 @@
               "RelativeDocumentMoniker": "MuApi\\Logger.cs",
               "ToolTip": "C:\\dev\\MuApi\\MuApi\\MuApi\\Logger.cs",
               "RelativeToolTip": "MuApi\\Logger.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwC8AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T04:11:52.92Z",
               "EditorCaption": ""
@@ -73,14 +72,14 @@
               "RelativeDocumentMoniker": "MuApi\\Util.cs",
               "ToolTip": "C:\\dev\\MuApi\\MuApi\\MuApi\\Util.cs",
               "RelativeToolTip": "MuApi\\Util.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T23:53:10.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ArithmeticConversion.cs",
               "DocumentMoniker": "C:\\dev\\MuApi\\MuApi\\MuApi\\ArithmeticConversion.cs",
               "RelativeDocumentMoniker": "MuApi\\ArithmeticConversion.cs",
@@ -88,12 +87,11 @@
               "RelativeToolTip": "MuApi\\ArithmeticConversion.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T05:35:24.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T05:35:24.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DateTime.cs",
               "DocumentMoniker": "C:\\dev\\MuApi\\MuApi\\MuApi\\DateTime.cs",
               "RelativeDocumentMoniker": "MuApi\\DateTime.cs",
@@ -101,18 +99,17 @@
               "RelativeToolTip": "MuApi\\DateTime.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T05:18:27.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T05:18:27.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Math.cs",
               "DocumentMoniker": "C:\\dev\\MuApi\\MuApi\\MuApi\\Math.cs",
               "RelativeDocumentMoniker": "MuApi\\Math.cs",
               "ToolTip": "C:\\dev\\MuApi\\MuApi\\MuApi\\Math.cs",
               "RelativeToolTip": "MuApi\\Math.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T02:39:47.256Z",
               "EditorCaption": ""
@@ -127,8 +124,7 @@
               "RelativeToolTip": "MuApi\\Database.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:41:37.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T02:41:37.73Z"
             }
           ]
         }
