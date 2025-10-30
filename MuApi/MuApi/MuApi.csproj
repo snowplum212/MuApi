@@ -77,7 +77,7 @@
   <ItemGroup>
     <Compile Include="ArithmeticConversion.cs" />
     <Compile Include="DateTime.cs" />
-    <Compile Include="Database.cs" />
+    <Compile Include="DB.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Util.cs" />
     <Compile Include="Math.cs" />

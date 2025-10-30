@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MuApi
 {
-    public class Database
+    public class DB
     {
         public static int Multiply(int a, int b)
         {
